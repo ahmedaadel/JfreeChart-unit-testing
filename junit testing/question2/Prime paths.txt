@@ -1,0 +1,61 @@
+Prime pathes = 16 paths:
+
+[1,3,4,5,7,8,11,12,8,9,14,4,5,7,8,9,14,4,5,6,4,5,7,8,9,10]
+testcase: (startNumber = 2, endNumber = 4)
+
+
+[1,3,4,5,7,8,11,12,8,11,13,14,4,5,7,8,11,13,14,4,5,7,8,11,12,8,9,10]	
+testcase: no valid test cases
+
+
+[1,2]	
+testcase: (startNumber = 1, endNumber =2 )
+
+
+[1,3,4,5,7,8,11,12,8,11,12,8,9,14,4,2]
+testcase: (startNumber = 9, endNumber = 9)
+
+
+[1,3,4,5,6,4,5,6,4,2]	
+no valid test case
+
+
+[1,3,4,2]	
+no valid test case
+
+
+[1,3,4,5,6,4,2]	
+testcase: (startNumber = 4, endNumber = 4)
+
+
+[1,3,4,5,7,8,11,12,8,9,10]
+testcase: (startNumber = 11, endNumber = 12)
+
+
+[1,3,4,5,7,8,9,14,4,5,7,8,11,12,8,9,14,4,5,6,4,5,7,8,11,12,8,11,13,14,4,5,6,4,5,7,8,9,14,4,2]	
+no valid test case
+
+
+[1,3,4,5,7,8,11,12,8,11,13,14,4,2]	
+no valid test case
+
+
+[1,3,4,5,7,8,11,13,14,4,5,7,8,9,10]	
+testcase: (startNumber = 8, endNumber = 13)
+
+
+[1,3,4,5,7,8,11,13,14,4,2]	
+testcase: (startNumber = 5, endNumber = 6)
+
+
+[1,3,4,5,6,4,5,7,8,11,13,14,4,2]	
+no valid test case
+
+
+
+[1,3,4,5,7,8,9,10]	
+testcase: (startNumber = 7, endNumber = 8)
+
+
+[1,3,4,5,7,8,9,14,4,5,7,8,11,13,14,4,2]	
+testcase: (startNumber = 8, endNumber = 10)
